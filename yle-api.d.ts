@@ -1,5 +1,7 @@
 
-
+/**
+ * Meta data information concerning the actual Program.
+ */
 interface YleMeta {
     // NOTE why is the offset and limit a string yet the count, program and clip are numbers? Aren't they all numbers?
     offset: string;
@@ -9,6 +11,9 @@ interface YleMeta {
     clip: number;
 }
 
+/**
+ * Video data information.
+ */
 interface YleProgramVideo {
     format: {
         inScheme: string;
@@ -19,6 +24,9 @@ interface YleProgramVideo {
     type: string;
 }
 
+/**
+ * Information on the available content rating for the requested content
+ */
 interface YleContentRating {
     /**
      * Title for the rating information
