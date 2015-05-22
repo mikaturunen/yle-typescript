@@ -1,6 +1,6 @@
 {
   "name": "yle-typescript",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Typescript definitions for APIs defined at http://developer.yle.fi/",
   "main": "yle-api.d.ts",
   "repository": {
