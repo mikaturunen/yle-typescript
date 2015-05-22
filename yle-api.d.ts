@@ -19,6 +19,18 @@ interface YleProgramVideo {
     type: string;
 }
 
+interface YleContentRating {
+    /**
+     * Title for the rating information
+     */
+    title: string;
+
+    /**
+     * Reasons(?) for the rating and the title.
+     */
+    reason: string[];
+}
+
 interface YleProgramData {
     description: { [language: string]: string; };
 
@@ -45,7 +57,7 @@ interface YleProgramData {
     /**
      * Type: "RadioProgram" or "TvProgram".
      */
-    type: string; "RadioProgram";
+    type: string;
 
     /**
      * Play time for the clip, a.k.a duration.
@@ -53,15 +65,23 @@ interface YleProgramData {
      * - 45 minutes is described as: "PT45M"
      * - 2 hours and 23minutes is described as: "PT2H45M"
      */
-    duration: string; "PT45M";
+    duration: string;
 
-    "contentRating": {
-        "title": {},
-        "reason": []
-    },
-    "title": {
-        "fi": "Brysselin kone. EU:n uusissa haasteissa"
-    },
+    /**
+     * Rating information and reasoning.
+     */
+    contentRating: YleContentRating;
+
+    /**
+     * Contains the YLE friendly translations for the title.
+     * Example usage:
+     *      title["fi"] = "Fakta ja Kulttuuri";
+     *      title["en"] = "Fact and Culture";
+     */
+    title: {
+        [language: string]: string;
+    };
+
     "itemTitle": {},
 
     countryOfOrigin: string[];

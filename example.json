@@ -1,0 +1,372 @@
+{
+    "apiVersion": "1.0.1267",
+    "meta": {
+        "offset": "0",
+        "limit": "25",
+        "count": 2125393,
+        "program": 2000141,
+        "clip": 125242
+    },
+    "data": [
+        {
+            "description": {
+                "fi": "Haastateltavana Europarlamentin varapuhemies Olli Rehn. \r\nToimittajana Maija Elonheimo.\r\n\r\n"
+            },
+            "video": {},
+            "typeMedia": "RadioContent",
+            "creator": [],
+            "indexDataModified": "2014-10-03T13:40:24.614+03:00",
+            "alternativeId": [
+                "12-1021-4-379522"
+            ],
+            "type": "RadioProgram",
+            "duration": "PT45M",
+            "contentRating": {
+                "title": {},
+                "reason": []
+            },
+            "title": {
+                "fi": "Brysselin kone. EU:n uusissa haasteissa"
+            },
+            "itemTitle": {},
+            "countryOfOrigin": [],
+            "id": "1-2386316",
+            "typeCreative": "Program",
+            "image": {},
+            "audio": [],
+            "originalTitle": {},
+            "publicationEvent": [
+                {
+                    "service": {
+                        "id": "yle-puhe"
+                    },
+                    "startTime": "2014-10-05T06:03:00+03:00",
+                    "temporalStatus": "in-past",
+                    "endTime": "2014-10-05T06:48:00+03:00",
+                    "type": "ScheduledTransmission",
+                    "duration": "PT45M",
+                    "region": "World",
+                    "id": "4-3747071",
+                    "media": {}
+                }
+            ],
+            "collection": "main",
+            "subject": [
+                {
+                    "id": "5-218",
+                    "title": {
+                        "fi": "Fakta ja Kulttuuri",
+                        "sv": "Fakta och kultur"
+                    },
+                    "broader": {
+                        "id": "5-200"
+                    },
+                    "inScheme": "areena-content-classification",
+                    "type": "Concept",
+                    "key": "faktajakulttuuri"
+                },
+                {
+                    "id": "21-2",
+                    "title": {
+                        "fi": "Ajankohtaisohjelmat",
+                        "en": "Current Affairs"
+                    },
+                    "inScheme": "finnpanel-genre-classification",
+                    "type": "Concept",
+                    "notation": [
+                        {
+                            "value": "2",
+                            "valueType": "finnpanel-notation"
+                        }
+                    ]
+                }
+            ],
+            "subtitling": []
+        },
+        {
+            "description": {
+                "sv": "Teemainfo"
+            },
+            "video": {
+                "format": [
+                    {
+                        "inScheme": "mediaformat-classification",
+                        "type": "Concept",
+                        "key": "16:9"
+                    }
+                ],
+                "language": [],
+                "type": "VideoTrack"
+            },
+            "typeMedia": "TVContent",
+            "creator": [],
+            "indexDataModified": "2014-06-30T22:09:32.692+03:00",
+            "alternativeId": [
+                "16-0-323144182813"
+            ],
+            "type": "TVProgram",
+            "duration": "PT12H49M7S",
+            "contentRating": {
+                "title": {},
+                "reason": []
+            },
+            "title": {
+                "fi": "Teematieto",
+                "sv": "Teematieto"
+            },
+            "itemTitle": {},
+            "countryOfOrigin": [],
+            "id": "1-2286539",
+            "typeCreative": "Program",
+            "image": {},
+            "audio": [],
+            "originalTitle": {},
+            "publicationEvent": [
+                {
+                    "service": {
+                        "id": "yle-teema"
+                    },
+                    "startTime": "2014-06-30T04:00:00+03:00",
+                    "temporalStatus": "in-past",
+                    "endTime": "2014-06-30T16:50:00+03:00",
+                    "type": "ScheduledTransmission",
+                    "duration": "PT12H50M",
+                    "region": "Finland",
+                    "id": "4-3510248",
+                    "media": {}
+                }
+            ],
+            "collection": "main",
+            "subject": [],
+            "subtitling": []
+        },
+        {
+            "description": {},
+            "video": {
+                "format": [
+                    {
+                        "inScheme": "mediaformat-classification",
+                        "type": "Concept",
+                        "key": "16:9"
+                    }
+                ],
+                "language": [],
+                "type": "VideoTrack"
+            },
+            "typeMedia": "TVContent",
+            "creator": [],
+            "partOfSeries": {
+                "id": "1-2347576"
+            },
+            "indexDataModified": "2014-08-04T13:17:19.021+03:00",
+            "alternativeId": [
+                "16-1-E0506207"
+            ],
+            "type": "TVProgram",
+            "duration": "PT9M30S",
+            "productionId": "40103718000",
+            "contentRating": {
+                "title": {},
+                "reason": []
+            },
+            "title": {
+                "fi": "Urheiluruutu",
+                "sv": "Sportrutan"
+            },
+            "itemTitle": {},
+            "countryOfOrigin": [
+                "Suomi"
+            ],
+            "id": "1-2274903",
+            "typeCreative": "Program",
+            "image": {},
+            "audio": [
+                {
+                    "format": [
+                        {
+                            "inScheme": "mediaformat-classification",
+                            "type": "Concept",
+                            "key": "stereo"
+                        }
+                    ],
+                    "language": [
+                        "fi"
+                    ],
+                    "type": "AudioTrack"
+                }
+            ],
+            "originalTitle": {},
+            "publicationEvent": [
+                {
+                    "service": {
+                        "id": "yle-tv2"
+                    },
+                    "startTime": "2014-09-07T21:55:00+03:00",
+                    "temporalStatus": "in-past",
+                    "endTime": "2014-09-07T22:04:30+03:00",
+                    "type": "ScheduledTransmission",
+                    "duration": "PT9M30S",
+                    "region": "World",
+                    "id": "4-3482571",
+                    "media": {}
+                },
+                {
+                    "service": {
+                        "id": "yle-areena"
+                    },
+                    "publisher": [
+                        {
+                            "id": "yle-tv2"
+                        }
+                    ],
+                    "startTime": "2014-09-07T21:55:00+03:00",
+                    "temporalStatus": "in-past",
+                    "endTime": "2014-09-13T23:59:59+03:00",
+                    "type": "OnDemandPublication",
+                    "duration": "P6DT2H4M59S",
+                    "region": "World",
+                    "id": "4-3621910",
+                    "media": {
+                        "id": "6-680ea9b9105542a7bf97c7c41bff815e",
+                        "duration": "PT9M30S",
+                        "contentProtection": [
+                            {
+                                "id": "22-1",
+                                "type": "ContentProtectionPolicy"
+                            }
+                        ],
+                        "available": false,
+                        "type": "VideoObject"
+                    }
+                }
+            ],
+            "collection": "main",
+            "subject": [
+                {
+                    "id": "5-164",
+                    "title": {
+                        "fi": "Urheilu",
+                        "sv": "Sport"
+                    },
+                    "broader": {
+                        "id": "5-130"
+                    },
+                    "inScheme": "areena-content-classification",
+                    "type": "Concept",
+                    "key": "urheilu"
+                },
+                {
+                    "id": "5-166",
+                    "title": {
+                        "fi": "Urheilumakasiini",
+                        "sv": "Sportsmagasin"
+                    },
+                    "broader": {
+                        "id": "5-164"
+                    },
+                    "inScheme": "areena-content-classification",
+                    "type": "Concept",
+                    "key": "urheilumakasiini"
+                },
+                {
+                    "id": "5-267",
+                    "title": {
+                        "fi": "Urheilu"
+                    },
+                    "inScheme": "areena-analytics-classification",
+                    "type": "Concept",
+                    "key": "urheilu"
+                },
+                {
+                    "id": "21-5",
+                    "title": {
+                        "fi": "Urheilu",
+                        "en": "Sports"
+                    },
+                    "inScheme": "finnpanel-genre-classification",
+                    "type": "Concept",
+                    "notation": [
+                        {
+                            "value": "4",
+                            "valueType": "finnpanel-notation"
+                        }
+                    ]
+                }
+            ],
+            "subtitling": []
+        },
+        {
+            "description": {},
+            "video": {},
+            "typeMedia": "RadioContent",
+            "creator": [],
+            "indexDataModified": "2014-08-22T02:05:29.162+03:00",
+            "alternativeId": [
+                "12-1023-4-1081641"
+            ],
+            "type": "RadioProgram",
+            "duration": "PT20M",
+            "contentRating": {
+                "title": {},
+                "reason": []
+            },
+            "title": {
+                "fi": "Huomenta Lappi"
+            },
+            "itemTitle": {},
+            "countryOfOrigin": [],
+            "id": "1-2349256",
+            "typeCreative": "Program",
+            "image": {},
+            "audio": [],
+            "originalTitle": {},
+            "publicationEvent": [
+                {
+                    "service": {
+                        "id": "lapin-radio"
+                    },
+                    "startTime": "2014-09-12T09:10:00+03:00",
+                    "temporalStatus": "in-past",
+                    "endTime": "2014-09-12T09:30:00+03:00",
+                    "type": "ScheduledTransmission",
+                    "duration": "PT20M",
+                    "region": "World",
+                    "id": "4-3661928",
+                    "media": {}
+                }
+            ],
+            "collection": "main",
+            "subject": [
+                {
+                    "id": "5-218",
+                    "title": {
+                        "fi": "Fakta ja Kulttuuri",
+                        "sv": "Fakta och kultur"
+                    },
+                    "broader": {
+                        "id": "5-200"
+                    },
+                    "inScheme": "areena-content-classification",
+                    "type": "Concept",
+                    "key": "faktajakulttuuri"
+                },
+                {
+                    "id": "21-2",
+                    "title": {
+                        "fi": "Ajankohtaisohjelmat",
+                        "en": "Current Affairs"
+                    },
+                    "inScheme": "finnpanel-genre-classification",
+                    "type": "Concept",
+                    "notation": [
+                        {
+                            "value": "2",
+                            "valueType": "finnpanel-notation"
+                        }
+                    ]
+                }
+            ],
+            "subtitling": []
+        }
+    ]
+}
